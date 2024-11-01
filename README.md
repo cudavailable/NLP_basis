@@ -64,10 +64,10 @@
 
 ------------------------------------以上为原作者@JackKuo666所写---------------------------------------------------------
 ### 参考：
-@JackKuo666
+@JackKuo666  
 https://github.com/JackKuo666/NLP_basis
 
 ### 更多NLP知识请访问：
-@JackKuo666 的
+@JackKuo666 的  
 主页 : https://jackkuo666.github.io/  
 博客 : https://blog.csdn.net/weixin_37251044  
