@@ -69,5 +69,5 @@ https://github.com/JackKuo666/NLP_basis
 
 ### 更多NLP知识请访问：
 @JackKuo666 的
-主页 : https://jackkuo666.github.io/
-博客 : https://blog.csdn.net/weixin_37251044
+主页 : https://jackkuo666.github.io/  
+博客 : https://blog.csdn.net/weixin_37251044  
